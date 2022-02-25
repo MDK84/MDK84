@@ -1399,7 +1399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MDK84/MDK84</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parch-os/join-requests</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Requests to join the WorkGroup goes here</div>
@@ -1651,7 +1651,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2022, 09:38:20 (timezone Asia/Tehran) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 10:36:31 (timezone Asia/Tehran) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
