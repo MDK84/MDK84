@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown    13 mins         █████████████████████████   99.86 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Rust        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
