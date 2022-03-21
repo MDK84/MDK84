@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown    13 mins         █████████████████████████   99.86 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Rust        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Gettext Catalog   56 mins         ██████████████████▒░░░░░░   72.75 %
+Markdown          18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+HTML              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Python            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Modelica          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Batchfile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
