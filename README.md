@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Gettext Catalog   56 mins         ██████████████████████░░░   87.60 %
-Markdown          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-HTML              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Python            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Modelica          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
