@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          █████████████████████████   100.00 %
+Python             17 mins         █████████████░░░░░░░░░░░░   51.61 %
+Gettext Catalog    9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+reStructuredText   6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.43 %
 ```
 
 <!--END_SECTION:waka-->
