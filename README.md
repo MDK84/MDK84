@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
+TOML               4 mins          █████████████████████████   100.00 %
 reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
