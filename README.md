@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TOML   4 mins          █████████████████████████   100.00 %
+Gettext Catalog   13 mins         █████████████████▓░░░░░░░   71.27 %
+TOML              5 mins          ███████░░░░░░░░░░░░░░░░░░   27.68 %
+JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
