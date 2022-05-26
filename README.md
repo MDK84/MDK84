@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Gettext Catalog    35 mins         █████████████████████▒░░░   85.27 %
+reStructuredText   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+JSON               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
