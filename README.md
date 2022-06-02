@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Gettext Catalog    35 mins         █████████████████████░░░░   83.90 %
-reStructuredText   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Python             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JSON               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Bash               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-INI                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   0 secs          ████████████████████▒░░░░   80.78 %
+Bash     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
