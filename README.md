@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML              1 hr 47 mins    ██████████████▒░░░░░░░░░░   56.75 %
-Gettext Catalog   40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Markdown          39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-JavaScript        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML              1 hr 47 mins    █████████▓░░░░░░░░░░░░░░░   38.96 %
+Python            1 hr 26 mins    ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+Gettext Catalog   40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Markdown          39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+JavaScript        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
