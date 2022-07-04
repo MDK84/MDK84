@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python            2 hrs 17 mins   ██████████████████▒░░░░░░   73.79 %
-HTML              41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Markdown          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Gettext Catalog   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JavaScript        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   2 hrs 17 mins   █████████████████████████   99.78 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
