@@ -59,8 +59,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
