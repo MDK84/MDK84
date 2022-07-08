@@ -43,7 +43,7 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_ignored: explorer, automater, infographile
           plugin_wakatime: yes
-          plugin_wakatime_days: 30
+          plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
