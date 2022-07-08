@@ -37,15 +37,16 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 100
           plugin_code_visibility: public
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_achievements: yes
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_ignored: explorer, automater, infographile
+          plugin_wakatime: yes
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
