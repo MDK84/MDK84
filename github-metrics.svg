@@ -1433,12 +1433,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">codecup7-dastgarmi</span>
-                                <div class="bar" style="width: 54.416%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.10399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Quera</span>
-                                <div class="bar" style="width: 25.584000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.896%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                         </div>
@@ -2124,7 +2124,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2022, 00:51:26 (timezone Asia/Tehran) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Nov 2022, 01:50:23 (timezone Asia/Tehran) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
