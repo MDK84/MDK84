@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1530" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1608" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,7 +33,7 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 13 repositories
+                            Contributed to 12 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            375 Commits
+                            383 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,13 +127,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 637 repositories
+                            Starred 636 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 13 repositories
+                            Watching 12 repositories
                         </div>
                     </section>
                 </div>
@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            19 Repositories
+                            18 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    44 MB used
+                                    42.4 MB used
                                 </div>
                             </section>
                             <section>
@@ -219,11 +219,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.38419840583094" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="183.38419840583094" y="0" width="169.22750101867496" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="352.61169942450584" y="0" width="89.5481661561846" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="442.15986558069045" y="0" width="14.902230096922915" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.0620956776134" y="0" width="2.9379043223865837" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.04017445904537" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="176.04017445904537" y="0" width="173.72041434023274" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="349.7605887992781" y="0" width="91.92562931212754" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.68621811140565" y="0" width="15.297877540277858" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.98409565168345" y="0" width="3.0159043483165076" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1317,524 +1317,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Androz2091/slash-commands-gui</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">MDK84/IRPI-API</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">MDK84/DiscordClassTimeBot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c6fd64</div>
-                                        <div class="message">Bump flask from 2.1.2 to 2.1.3 (#20)
-
-Bumps [flask](https://github.com/pallets/flask) from 2.1.2 to 2.1.3.
-- [Release notes](https://github.com/pallets/flask/releases)
-- [Changelog](https://github.com/pallets/flask/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pallets/flask/compare/2.1.2...2.1.3)
-
----
-updated-dependencies:
-- dependency-name: flask
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c035f3</div>
-                                        <div class="message">Bump blinker from 1.4 to 1.5 (#18)
-
-Bumps [blinker](https://github.com/pallets-eco/blinker) from 1.4 to 1.5.
-- [Release notes](https://github.com/pallets-eco/blinker/releases)
-- [Changelog](https://github.com/pallets-eco/blinker/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pallets-eco/blinker/compare/rel-1.4...1.5)
-
----
-updated-dependencies:
-- dependency-name: blinker
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fea6ce</div>
-                                        <div class="message">Bump sphinx from 5.0.2 to 5.1.1 (#17)
-
-Bumps [sphinx](https://github.com/sphinx-doc/sphinx) from 5.0.2 to 5.1.1.
-- [Release notes](https://github.com/sphinx-doc/sphinx/releases)
-- [Changelog](https://github.com/sphinx-doc/sphinx/blob/5.x/CHANGES)
-- [Commits](https://github.com/sphinx-doc/sphinx/compare/v5.0.2...v5.1.1)
-
----
-updated-dependencies:
-- dependency-name: sphinx
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d88f097</div>
-                                        <div class="message">Bump pre-commit from 2.19.0 to 2.20.0 (#21)
-
-Bumps [pre-commit](https://github.com/pre-commit/pre-commit) from 2.19.0 to 2.20.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/pre-commit/pre-commit/releases"&gt;pre-commit's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;pre-commit v2.20.0&lt;/h2&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Expose &lt;code&gt;source&lt;/code&gt; and &lt;code&gt;object-name&lt;/code&gt; (positional args) of &lt;code&gt;prepare-commit-msg&lt;/code&gt; hook as &lt;code&gt;PRE_COMMIT_COMIT_MSG_SOURCE&lt;/code&gt; and &lt;code&gt;PRE_COMMIT_COMMIT_OBJECT_NAME&lt;/code&gt;.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2407"&gt;#2407&lt;/a&gt; PR by &lt;a href="https://github.com/M-Whitaker"&gt;&lt;code&gt;@​M-Whitaker&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2406"&gt;#2406&lt;/a&gt; issue by &lt;a href="https://github.com/M-Whitaker"&gt;&lt;code&gt;@​M-Whitaker&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix &lt;code&gt;language: ruby&lt;/code&gt; installs when &lt;code&gt;--user-install&lt;/code&gt; is set in gemrc.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2394"&gt;#2394&lt;/a&gt; PR by &lt;a href="https://github.com/narpfel"&gt;&lt;code&gt;@​narpfel&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2393"&gt;#2393&lt;/a&gt; issue by &lt;a href="https://github.com/narpfel"&gt;&lt;code&gt;@​narpfel&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Adjust pty setup for solaris.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2390"&gt;#2390&lt;/a&gt; PR by &lt;a href="https://github.com/gaige"&gt;&lt;code&gt;@​gaige&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2389"&gt;#2389&lt;/a&gt; issue by &lt;a href="https://github.com/gaige"&gt;&lt;code&gt;@​gaige&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Remove unused &lt;code&gt;--config&lt;/code&gt; option from &lt;code&gt;gc&lt;/code&gt;, &lt;code&gt;sample-config&lt;/code&gt;, &lt;code&gt;validate-config&lt;/code&gt;, &lt;code&gt;validate-manifest&lt;/code&gt; sub-commands.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2429"&gt;#2429&lt;/a&gt; PR by &lt;a href="https://github.com/asottile"&gt;&lt;code&gt;@​asottile&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/pre-commit/pre-commit/blob/main/CHANGELOG.md"&gt;pre-commit's changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;2.20.0 - 2022-07-10&lt;/h1&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Expose &lt;code&gt;source&lt;/code&gt; and &lt;code&gt;object-name&lt;/code&gt; (positional args) of &lt;code&gt;prepare-commit-msg&lt;/code&gt;
-hook as &lt;code&gt;PRE_COMMIT_COMIT_MSG_SOURCE&lt;/code&gt; and &lt;code&gt;PRE_COMMIT_COMMIT_OBJECT_NAME&lt;/code&gt;.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2407"&gt;#2407&lt;/a&gt; PR by &lt;a href="https://github.com/M-Whitaker"&gt;&lt;code&gt;@​M-Whitaker&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2406"&gt;#2406&lt;/a&gt; issue by &lt;a href="https://github.com/M-Whitaker"&gt;&lt;code&gt;@​M-Whitaker&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix &lt;code&gt;language: ruby&lt;/code&gt; installs when &lt;code&gt;--user-install&lt;/code&gt; is set in gemrc.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2394"&gt;#2394&lt;/a&gt; PR by &lt;a href="https://github.com/narpfel"&gt;&lt;code&gt;@​narpfel&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2393"&gt;#2393&lt;/a&gt; issue by &lt;a href="https://github.com/narpfel"&gt;&lt;code&gt;@​narpfel&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Adjust pty setup for solaris.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2390"&gt;#2390&lt;/a&gt; PR by &lt;a href="https://github.com/gaige"&gt;&lt;code&gt;@​gaige&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2389"&gt;#2389&lt;/a&gt; issue by &lt;a href="https://github.com/gaige"&gt;&lt;code&gt;@​gaige&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Remove unused &lt;code&gt;--config&lt;/code&gt; option from &lt;code&gt;gc&lt;/code&gt;, &lt;code&gt;sample-config&lt;/code&gt;,
-&lt;code&gt;validate-config&lt;/code&gt;, &lt;code&gt;validate-manifest&lt;/code&gt; sub-commands.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2429"&gt;#2429&lt;/a&gt; PR by &lt;a href="https://github.com/asottile"&gt;&lt;code&gt;@​asottile&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/78a2d867feac2c1602a608c1fa4eeecb2f8bb415"&gt;&lt;code&gt;78a2d86&lt;/code&gt;&lt;/a&gt; v2.20.0&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/e3dc5b7baf9b0672985720e2bcb7cea7cd55feb1"&gt;&lt;code&gt;e3dc5b7&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2454"&gt;#2454&lt;/a&gt; from pre-commit/asottile-patch-1&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/ebce88c13d09000f6d1c04a6232ad14fe9c5e33d"&gt;&lt;code&gt;ebce88c&lt;/code&gt;&lt;/a&gt; remove warnings checks&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/d6cc8a141945c0752b0ede79165b49f2b8fc079c"&gt;&lt;code&gt;d6cc8a1&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2453"&gt;#2453&lt;/a&gt; from hroncok/python3.11&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/901e831313e897e3b9313f5efbb5ef589b3e279c"&gt;&lt;code&gt;901e831&lt;/code&gt;&lt;/a&gt; Tests: Adjust traceback regexes to allow Python 3.11+ ^^^^^^^&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/98bb7e6630a7d06b6e3ed38effe0409b54d77cd0"&gt;&lt;code&gt;98bb7e6&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2440"&gt;#2440&lt;/a&gt; from pre-commit/pre-commit-ci-update-config&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/706d1e99294bf7adde03b7a8847f512a76cecbe2"&gt;&lt;code&gt;706d1e9&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2439"&gt;#2439&lt;/a&gt; from pre-commit/all-repos_autofix_type-checking&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/3ebd101eb5e450c9e9d2345ffe72c78838fb2316"&gt;&lt;code&gt;3ebd101&lt;/code&gt;&lt;/a&gt; [pre-commit.ci] pre-commit autoupdate&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/d8b59300ce44918bcfa070eff06d2f861222c3fa"&gt;&lt;code&gt;d8b5930&lt;/code&gt;&lt;/a&gt; remove imports from TYPE_CHECKING (py37+)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pre-commit/pre-commit/commit/170335cbb63796761d592f8eacd66c78de8dd912"&gt;&lt;code&gt;170335c&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pre-commit/pre-commit/issues/2429"&gt;#2429&lt;/a&gt; from pre-commit/remove-config-option-when-unused&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/pre-commit/pre-commit/compare/v2.19.0...v2.20.0"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=pre-commit&amp;package-manager=pip&amp;previous-version=2.19.0&amp;new-version=2.20.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3e08fe</div>
-                                        <div class="message">Bump coverage from 6.4.4 to 6.5.0 (#25)
-
-Bumps [coverage](https://github.com/nedbat/coveragepy) from 6.4.4 to 6.5.0.
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/nedbat/coveragepy/blob/master/CHANGES.rst"&gt;coverage's changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;Version 6.5.0 — 2022-09-29&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The JSON report now includes details of which branches were taken, and which
-are missing for each file. Thanks, Christoph Blessing (&lt;code&gt;pull 1438&lt;/code&gt;&lt;em&gt;). Closes
-&lt;code&gt;issue 1425&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Starting with coverage.py 6.2, &lt;code&gt;class&lt;/code&gt; statements were marked as a branch.
-This wasn't right, and has been reverted, fixing &lt;code&gt;issue 1449&lt;/code&gt;_. Note this
-will very slightly reduce your coverage total if you are measuring branch
-coverage.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Packaging is now compliant with &lt;code&gt;PEP 517&lt;/code&gt;&lt;em&gt;, closing &lt;code&gt;issue 1395&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A new debug option &lt;code&gt;--debug=pathmap&lt;/code&gt; shows details of the remapping of
-paths that happens during combine due to the &lt;code&gt;[paths]&lt;/code&gt; setting.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fix an internal problem with caching of invalid Python parsing. Found by
-OSS-Fuzz, fixing their &lt;code&gt;bug 50381&lt;/code&gt;_.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;.. _bug 50381: &lt;a href="https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50381"&gt;https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50381&lt;/a&gt;
-.. _PEP 517: &lt;a href="https://peps.python.org/pep-0517/"&gt;https://peps.python.org/pep-0517/&lt;/a&gt;
-.. _issue 1395: &lt;a href="https://github-redirect.dependabot.com/nedbat/coveragepy/issues/1395"&gt;nedbat/coveragepy#1395&lt;/a&gt;
-.. _issue 1425: &lt;a href="https://github-redirect.dependabot.com/nedbat/coveragepy/issues/1425"&gt;nedbat/coveragepy#1425&lt;/a&gt;
-.. _pull 1438: &lt;a href="https://github-redirect.dependabot.com/nedbat/coveragepy/pull/1438"&gt;nedbat/coveragepy#1438&lt;/a&gt;
-.. _issue 1449: &lt;a href="https://github-redirect.dependabot.com/nedbat/coveragepy/issues/1449"&gt;nedbat/coveragepy#1449&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;.. _changes_6-4-4:&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/0ac24533e7f167518b8653d423de5ff7d6229a42"&gt;&lt;code&gt;0ac2453&lt;/code&gt;&lt;/a&gt; docs: sample html report&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/0954c85fdd02a7f6d86cddca5867c6e351d7f6f4"&gt;&lt;code&gt;0954c85&lt;/code&gt;&lt;/a&gt; build: prep for 6.5.0&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/95195b13f631a13ccd89bb4531424749f53fe518"&gt;&lt;code&gt;95195b1&lt;/code&gt;&lt;/a&gt; docs: changelog for json report branch details&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/789f1755333cad44115a90f4bc7d404848c3e876"&gt;&lt;code&gt;789f175&lt;/code&gt;&lt;/a&gt; fix: keep negative arc values&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/aabc54031a673e2f789620a993a90197a36f0e95"&gt;&lt;code&gt;aabc540&lt;/code&gt;&lt;/a&gt; feat: include branches taken and missed in JSON report. &lt;a href="https://github-redirect.dependabot.com/nedbat/coveragepy/issues/1425"&gt;#1425&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/a59fc4485df1191a8efaeae92e780e9f0710484e"&gt;&lt;code&gt;a59fc44&lt;/code&gt;&lt;/a&gt; docs: minor tweaks to db docs&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/d296083bbed850a5f13459a163633fc6fb9289ea"&gt;&lt;code&gt;d296083&lt;/code&gt;&lt;/a&gt; docs: add a note to the class-branch change&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/7f07df63a61010c87ab5a7231cacc8702652437b"&gt;&lt;code&gt;7f07df6&lt;/code&gt;&lt;/a&gt; chore: make upgrade&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/6bc29a9e0ec8b5690fba4ea461e3c68978eb51f0"&gt;&lt;code&gt;6bc29a9&lt;/code&gt;&lt;/a&gt; build: use the badge action coloring&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nedbat/coveragepy/commit/fd36918609a18bd36a7e2c3b208220cf25c0957d"&gt;&lt;code&gt;fd36918&lt;/code&gt;&lt;/a&gt; fix: &lt;code&gt;class&lt;/code&gt; statements shouldn't be branches. &lt;a href="https://github-redirect.dependabot.com/nedbat/coveragepy/issues/1449"&gt;#1449&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/nedbat/coveragepy/compare/6.4.4...6.5.0"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=coverage&amp;package-manager=pip&amp;previous-version=6.4.4&amp;new-version=6.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77e4da2</div>
-                                        <div class="message">Bump pytest from 6.2.5 to 7.1.3 (#24)
-
-[//]: # (dependabot-start)
-⚠️  **Dependabot is rebasing this PR** ⚠️ 
-
-Rebasing might not happen immediately, so don't worry if this takes some time.
-
-Note: if you make any changes to this PR yourself, they will take precedence over the rebase.
-
----
-
-[//]: # (dependabot-end)
-
-Bumps [pytest](https://github.com/pytest-dev/pytest) from 6.2.5 to 7.1.3.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/pytest-dev/pytest/releases"&gt;pytest's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;7.1.3&lt;/h2&gt;
-&lt;h1&gt;pytest 7.1.3 (2022-08-31)&lt;/h1&gt;
-&lt;h2&gt;Bug Fixes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10060"&gt;#10060&lt;/a&gt;: When running with &lt;code&gt;--pdb&lt;/code&gt;, &lt;code&gt;TestCase.tearDown&lt;/code&gt; is no longer called for tests when the &lt;em&gt;class&lt;/em&gt; has been skipped via &lt;code&gt;unittest.skip&lt;/code&gt; or &lt;code&gt;pytest.mark.skip&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10190"&gt;#10190&lt;/a&gt;: Invalid XML characters in setup or teardown error messages are now properly escaped for JUnit XML reports.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10230"&gt;#10230&lt;/a&gt;: Ignore &lt;code&gt;.py&lt;/code&gt; files created by &lt;code&gt;pyproject.toml&lt;/code&gt;-based editable builds introduced in &lt;a href="https://pip.pypa.io/en/stable/news/#v21-3"&gt;pip 21.3&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/3396"&gt;#3396&lt;/a&gt;: Doctests now respect the &lt;code&gt;--import-mode&lt;/code&gt; flag.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9514"&gt;#9514&lt;/a&gt;: Type-annotate &lt;code&gt;FixtureRequest.param&lt;/code&gt; as &lt;code&gt;Any&lt;/code&gt; as a stop gap measure until &lt;code&gt;8073&lt;/code&gt;{.interpreted-text role=&amp;quot;issue&amp;quot;} is fixed.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9791"&gt;#9791&lt;/a&gt;: Fixed a path handling code in &lt;code&gt;rewrite.py&lt;/code&gt; that seems to work fine, but was incorrect and fails in some systems.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9917"&gt;#9917&lt;/a&gt;: Fixed string representation for &lt;code&gt;pytest.approx&lt;/code&gt;{.interpreted-text role=&amp;quot;func&amp;quot;} when used to compare tuples.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Improved Documentation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9937"&gt;#9937&lt;/a&gt;: Explicit note that &lt;code&gt;tmpdir&lt;/code&gt;{.interpreted-text role=&amp;quot;fixture&amp;quot;} fixture is discouraged in favour of &lt;code&gt;tmp_path&lt;/code&gt;{.interpreted-text role=&amp;quot;fixture&amp;quot;}.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Trivial/Internal Changes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10114"&gt;#10114&lt;/a&gt;: Replace &lt;a href="https://github.com/untitaker/python-atomicwrites"&gt;atomicwrites&lt;/a&gt; dependency on windows with [os.replace]{.title-ref}.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;7.1.2&lt;/h2&gt;
-&lt;h1&gt;pytest 7.1.2 (2022-04-23)&lt;/h1&gt;
-&lt;h2&gt;Bug Fixes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9726"&gt;#9726&lt;/a&gt;: An unnecessary &lt;code&gt;numpy&lt;/code&gt; import inside &lt;code&gt;pytest.approx&lt;/code&gt;{.interpreted-text role=&amp;quot;func&amp;quot;} was removed.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9820"&gt;#9820&lt;/a&gt;: Fix comparison of &lt;code&gt;dataclasses&lt;/code&gt; with &lt;code&gt;InitVar&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9869"&gt;#9869&lt;/a&gt;: Increase &lt;code&gt;stacklevel&lt;/code&gt; for the &lt;code&gt;NODE_CTOR_FSPATH_ARG&lt;/code&gt; deprecation to point to the
-user's code, not pytest.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9871"&gt;#9871&lt;/a&gt;: Fix a bizarre (and fortunately rare) bug where the [temp_path]{.title-ref} fixture could raise
-an internal error while attempting to get the current user's username.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;7.1.1&lt;/h2&gt;
-&lt;h1&gt;pytest 7.1.1 (2022-03-17)&lt;/h1&gt;
-&lt;h2&gt;Bug Fixes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/9767"&gt;#9767&lt;/a&gt;: Fixed a regression in pytest 7.1.0 where some conftest.py files outside of the source tree (e.g. in the [site-packages]{.title-ref} directory) were not picked up.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;7.1.0&lt;/h2&gt;
-&lt;p&gt;pytest 7.1.0 (2022-03-13)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/4645bcd44915c2fd6043b101626e5bf1a983ac07"&gt;&lt;code&gt;4645bcd&lt;/code&gt;&lt;/a&gt; Remove incorrect output in how-to/fixtures.rst&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/fadfb4f3463bc828535f86682300907a30f240e9"&gt;&lt;code&gt;fadfb4f&lt;/code&gt;&lt;/a&gt; Prepare release version 7.1.3&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/ab96ea88e829af05e1491c30214b924c9553697b"&gt;&lt;code&gt;ab96ea8&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10258"&gt;#10258&lt;/a&gt; from pytest-dev/backport-10252-to-7.1.x&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/fc0e024b118fa63e84637bd5c9242b2b382e58fd"&gt;&lt;code&gt;fc0e024&lt;/code&gt;&lt;/a&gt; [7.1.x] Fix regendoc&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/8f5088f4126b61ff76ac9809d5eb27cdbc31f07b"&gt;&lt;code&gt;8f5088f&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10249"&gt;#10249&lt;/a&gt; from pytest-dev/backport-10231-to-7.1.x&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/aae93d6127c43a7f9036556ba7482019d389e21d"&gt;&lt;code&gt;aae93d6&lt;/code&gt;&lt;/a&gt; Ignore type-errors related to attr.asdict&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/71b79fcda5313624544ae501a2045186c1c72244"&gt;&lt;code&gt;71b79fc&lt;/code&gt;&lt;/a&gt; [7.1.x] Ignore editable installation modules&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/89f7518cb131579608387936c55f96cd4d3e9d3f"&gt;&lt;code&gt;89f7518&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10222"&gt;#10222&lt;/a&gt; from pytest-dev/backport-10171-to-7.1.x&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/88fc45bd57d217a9dc6f53e419c94d28e2d5392f"&gt;&lt;code&gt;88fc45b&lt;/code&gt;&lt;/a&gt; [7.1.x] Update fixtures.rst w/ finalizer order&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pytest-dev/pytest/commit/d0b53d6ba7b41dcb200a35af5f5733f591cd929b"&gt;&lt;code&gt;d0b53d6&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://github-redirect.dependabot.com/pytest-dev/pytest/issues/10221"&gt;#10221&lt;/a&gt; from pytest-dev/backport-10217-to-7.1.x&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/pytest-dev/pytest/compare/6.2.5...7.1.3"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=pytest&amp;package-manager=pip&amp;previous-version=6.2.5&amp;new-version=7.1.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76f87de</div>
-                                        <div class="message">Bump python-dotenv from 0.20.0 to 0.21.0 (#23)
-
-Bumps [python-dotenv](https://github.com/theskumar/python-dotenv) from 0.20.0 to 0.21.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/theskumar/python-dotenv/releases"&gt;python-dotenv's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;Version 0.21.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;h3&gt;Added&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;CLI: add support for invocations via 'python -m'. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/395"&gt;#395&lt;/a&gt; by &lt;a href="https://github.com/theskumar"&gt;&lt;code&gt;@​theskumar&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;load_dotenv&lt;/code&gt; function now returns &lt;code&gt;False&lt;/code&gt;. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/388"&gt;#388&lt;/a&gt; by &lt;a href="https://github.com/larsks"&gt;&lt;code&gt;@​larsks&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;CLI: add --format= option to list command. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/407"&gt;#407&lt;/a&gt; by &lt;a href="https://github.com/sammck"&gt;&lt;code&gt;@​sammck&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Fixed&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Drop Python 3.5 and 3.6 and upgrade GA (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/393"&gt;#393&lt;/a&gt; by &lt;a href="https://github.com/eggplants"&gt;&lt;code&gt;@​eggplants&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Use &lt;code&gt;open&lt;/code&gt; instead of &lt;code&gt;io.open&lt;/code&gt;. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/389"&gt;#389&lt;/a&gt; by &lt;a href="https://github.com/rabinadk1"&gt;&lt;code&gt;@​rabinadk1&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Improve documentation for variables without a value (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/390"&gt;#390&lt;/a&gt; by &lt;a href="https://github.com/bbc2"&gt;&lt;code&gt;@​bbc2&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add &lt;code&gt;parse_it&lt;/code&gt; to Related Projects by (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/410"&gt;#410&lt;/a&gt; by &lt;a href="https://github.com/naorlivne"&gt;&lt;code&gt;@​naorlivne&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update README.md by (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/415"&gt;#415&lt;/a&gt; by &lt;a href="https://github.com/harveer07"&gt;&lt;code&gt;@​harveer07&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Improve documentation with direct use of MkDocs by (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/398"&gt;#398&lt;/a&gt; by &lt;a href="https://github.com/bbc2"&gt;&lt;code&gt;@​bbc2&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/rabinadk1"&gt;&lt;code&gt;@​rabinadk1&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/389"&gt;theskumar/python-dotenv#389&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/larsks"&gt;&lt;code&gt;@​larsks&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/388"&gt;theskumar/python-dotenv#388&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/naorlivne"&gt;&lt;code&gt;@​naorlivne&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/410"&gt;theskumar/python-dotenv#410&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/eggplants"&gt;&lt;code&gt;@​eggplants&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/393"&gt;theskumar/python-dotenv#393&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sammck"&gt;&lt;code&gt;@​sammck&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/407"&gt;theskumar/python-dotenv#407&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/harveer07"&gt;&lt;code&gt;@​harveer07&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/415"&gt;theskumar/python-dotenv#415&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theGOTOguy"&gt;&lt;code&gt;@​theGOTOguy&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/pull/414"&gt;theskumar/python-dotenv#414&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/theskumar/python-dotenv/compare/v0.20.0...v0.21.0"&gt;https://github.com/theskumar/python-dotenv/compare/v0.20.0...v0.21.0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/theskumar/python-dotenv/blob/main/CHANGELOG.md"&gt;python-dotenv's changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;[0.21.0] - 2022-09-03&lt;/h2&gt;
-&lt;h3&gt;Added&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;CLI: add support for invocations via 'python -m'. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/395"&gt;#395&lt;/a&gt; by &lt;a href="https://github.com/theskumar"&gt;&lt;code&gt;@​theskumar&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;load_dotenv&lt;/code&gt; function now returns &lt;code&gt;False&lt;/code&gt;. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/388"&gt;#388&lt;/a&gt; by &lt;a href="https://github.com/larsks"&gt;&lt;code&gt;@​larsks&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;CLI: add --format= option to list command. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/407"&gt;#407&lt;/a&gt; by &lt;a href="https://github.com/sammck"&gt;&lt;code&gt;@​sammck&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Fixed&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Drop Python 3.5 and 3.6 and upgrade GA (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/393"&gt;#393&lt;/a&gt; by &lt;a href="https://github.com/eggplants"&gt;&lt;code&gt;@​eggplants&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Use &lt;code&gt;open&lt;/code&gt; instead of &lt;code&gt;io.open&lt;/code&gt;. (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/389"&gt;#389&lt;/a&gt; by &lt;a href="https://github.com/rabinadk1"&gt;&lt;code&gt;@​rabinadk1&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Improve documentation for variables without a value (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/390"&gt;#390&lt;/a&gt; by &lt;a href="https://github.com/bbc2"&gt;&lt;code&gt;@​bbc2&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add &lt;code&gt;parse_it&lt;/code&gt; to Related Projects by (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/410"&gt;#410&lt;/a&gt; by &lt;a href="https://github.com/naorlivne"&gt;&lt;code&gt;@​naorlivne&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update README.md by (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/415"&gt;#415&lt;/a&gt; by &lt;a href="https://github.com/harveer07"&gt;&lt;code&gt;@​harveer07&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Improve documentation with direct use of MkDocs by (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/398"&gt;#398&lt;/a&gt; by &lt;a href="https://github.com/bbc2"&gt;&lt;code&gt;@​bbc2&lt;/code&gt;&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/b6fe193b4c296a24d1973b741c19ee8b0066bc86"&gt;&lt;code&gt;b6fe193&lt;/code&gt;&lt;/a&gt; Bump version: 0.20.0 → 0.21.0&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/5d079312ada8fb39643b7789a577e93b415c18b6"&gt;&lt;code&gt;5d07931&lt;/code&gt;&lt;/a&gt; update changelog&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/490b116e6548e8d1bbc8184e36768f6ae73c06b2"&gt;&lt;code&gt;490b116&lt;/code&gt;&lt;/a&gt; Revert &amp;quot;fix: out of scope error when &amp;quot;dest&amp;quot; variable is undefined &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/413"&gt;#413&lt;/a&gt;&amp;quot;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/b1f041dcef79e796c9b9cda8e13d72ca65727b9b"&gt;&lt;code&gt;b1f041d&lt;/code&gt;&lt;/a&gt; Add release notes for 0.21.0&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/6399af6cd8b5f27ae4b68e8758722dff6728bffd"&gt;&lt;code&gt;6399af6&lt;/code&gt;&lt;/a&gt; chore: fix flake8 issue&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/a53d652f0618c27a0fd62c4a7946e609919179f3"&gt;&lt;code&gt;a53d652&lt;/code&gt;&lt;/a&gt; fix: out of scope error when &amp;quot;dest&amp;quot; variable is undefined &lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/413"&gt;#413&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/a7c811dd9296fc06524838c08c2ef4a8dec6377b"&gt;&lt;code&gt;a7c811d&lt;/code&gt;&lt;/a&gt; Update README.md (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/415"&gt;#415&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/914c68ef0e4c2c085d2753f5cbbf304852f37850"&gt;&lt;code&gt;914c68e&lt;/code&gt;&lt;/a&gt; feat(cli) add --format= option to list command (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/407"&gt;#407&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/2f36c082c278bad1a84411f1ad61547f95cecdb8"&gt;&lt;code&gt;2f36c08&lt;/code&gt;&lt;/a&gt; Drop Python 3.5 and 3.6 and upgrade GA (&lt;a href="https://github-redirect.dependabot.com/theskumar/python-dotenv/issues/393"&gt;#393&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/theskumar/python-dotenv/commit/a50a3bf3461e7c295723078ebf2db037d9eecd8b"&gt;&lt;code&gt;a50a3bf&lt;/code&gt;&lt;/a&gt; Add .vscode to gitignore&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/theskumar/python-dotenv/compare/v0.20.0...v0.21.0"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=python-dotenv&amp;package-manager=pip&amp;previous-version=0.20.0&amp;new-version=0.21.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-
-&lt;/details&gt;</div>
+                                        <div class="sha">#4c9c9bb</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/mdk1384/DiscordClassTimeBot</div>
                                     </div>
                                 </div>
                             </section>
@@ -1847,14 +1341,78 @@ You can trigger Dependabot actions by commenting on this PR:
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">MDK84/MDK84</span>
+                                        <span class="repo">MDK84/DiscordClassTimeBot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#932165a</div>
-                                        <div class="message">Update main.yml</div>
+                                        <div class="sha">#b5e3e61</div>
+                                        <div class="message">A little bug fix!</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">MDK84/DiscordClassTimeBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#88d0b18</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/mdk1384/DiscordClassTimeBot</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MDK84/DiscordClassTimeBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd5ab00</div>
+                                        <div class="message">A little bug fixes!</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">MDK84/DiscordClassTimeBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e29afd9</div>
+                                        <div class="message">Updating requirements.txt - reducing actually :)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7736e1</div>
+                                        <div class="message">A lot of changes on discord bot!</div>
                                     </div>
                                 </div>
                             </section>
@@ -1925,7 +1483,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.617500000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.540000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1944,13 +1502,13 @@ You can trigger Dependabot actions by commenting on this PR:
                                     <span class="prefix">Super</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">637</div>
+                                        <div class="value">636</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 637 repositories</div>
+                                <div class="text">Starred 636 repositories</div>
                             </div>
                         </div>
-                        <div class="achievement a largeable-width-half">
+                        <div class="achievement b largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -1960,36 +1518,36 @@ You can trigger Dependabot actions by commenting on this PR:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <path d="M37.303 21.591a5.84 5.84 0 00-1.877-1.177 6.138 6.138 0 00-4.432 0 5.822 5.822 0 00-1.879 1.177L28 22.638l-1.115-1.047c-1.086-1.018-2.559-1.59-4.094-1.59-1.536 0-3.008.572-4.094 1.59-1.086 1.02-1.696 2.4-1.696 3.84 0 1.441.61 2.823 1.696 3.841l1.115 1.046L28 38l8.189-7.682 1.115-1.046a5.422 5.422 0 001.256-1.761 5.126 5.126 0 000-4.157 5.426 5.426 0 00-1.256-1.763z" stroke="#B59151" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M15.967 42.705A18.922 18.922 0 0028 47a18.92 18.92 0 0011.076-3.56m-.032-30.902A18.914 18.914 0 0028 9c-4.09 0-7.876 1.292-10.976 3.49" stroke="#FFD576" stroke-linecap="round"/>
-                                            <g transform="translate(7 10)" stroke="#B59151">
+                                            <path d="M37.303 21.591a5.84 5.84 0 00-1.877-1.177 6.138 6.138 0 00-4.432 0 5.822 5.822 0 00-1.879 1.177L28 22.638l-1.115-1.047c-1.086-1.018-2.559-1.59-4.094-1.59-1.536 0-3.008.572-4.094 1.59-1.086 1.02-1.696 2.4-1.696 3.84 0 1.441.61 2.823 1.696 3.841l1.115 1.046L28 38l8.189-7.682 1.115-1.046a5.422 5.422 0 001.256-1.761 5.126 5.126 0 000-4.157 5.426 5.426 0 00-1.256-1.763z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M15.967 42.705A18.922 18.922 0 0028 47a18.92 18.92 0 0011.076-3.56m-.032-30.902A18.914 18.914 0 0028 9c-4.09 0-7.876 1.292-10.976 3.49" stroke="#B2A8FF" stroke-linecap="round"/>
+                                            <g transform="translate(7 10)" stroke="#7D6CFF">
                                                 <path d="M6 0v7c0 2.21-1.343 3-3 3s-3-.79-3-3V0" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path stroke-linecap="round" d="M3 0v19.675"/>
                                                 <rect stroke-linejoin="round" x="1" y="20" width="4" height="16" rx="2"/>
                                             </g>
-                                            <g transform="translate(43 10)" stroke="#B59151">
+                                            <g transform="translate(43 10)" stroke="#7D6CFF">
                                                 <path stroke-linecap="round" d="M2 15.968v3.674"/>
                                                 <path d="M4 15.642H0L.014 4.045A4.05 4.05 0 014.028 0L4 15.642z" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <rect stroke-linejoin="round" y="19.968" width="4" height="16" rx="2"/>
                                             </g>
-                                            <path d="M41.364 8.062A23.888 23.888 0 0028 4a23.89 23.89 0 00-11.95 3.182M4.75 22.021A24.045 24.045 0 004 28c0 1.723.182 3.404.527 5.024m10.195 14.971A23.888 23.888 0 0028 52c4.893 0 9.444-1.464 13.239-3.979m9-10.98A23.932 23.932 0 0052 28c0-2.792-.477-5.472-1.353-7.964" stroke="#FFD576" stroke-linecap="round"/>
+                                            <path d="M41.364 8.062A23.888 23.888 0 0028 4a23.89 23.89 0 00-11.95 3.182M4.75 22.021A24.045 24.045 0 004 28c0 1.723.182 3.404.527 5.024m10.195 14.971A23.888 23.888 0 0028 52c4.893 0 9.444-1.464 13.239-3.979m9-10.98A23.932 23.932 0 0052 28c0-2.792-.477-5.472-1.353-7.964" stroke="#B2A8FF" stroke-linecap="round"/>
                                         </g>
                                     </svg>
                                 </svg>
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix">Super</span>
+                                    <span class="prefix">Great</span>
                                     forker
                                     <div class="value-wrapper">
-                                        <div class="value">10</div>
+                                        <div class="value">9</div>
                                     </div>
                                 </div>
-                                <div class="text">Forked 10 public repositories</div>
+                                <div class="text">Forked 9 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2063,7 +1621,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="text">Using 5 different programming languages</div>
                             </div>
                         </div>
-                        <div class="achievement b largeable-width-half">
+                        <div class="achievement c largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -2073,37 +1631,37 @@ You can trigger Dependabot actions by commenting on this PR:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="146.8421052631579 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#7D6CFF">
+                                            <g stroke="#2088FF">
                                                 <path d="M20 24l-3.397 3.398a.85.85 0 000 1.203L20.002 32M37.015 24l3.399 3.398a.85.85 0 010 1.203L37.014 32" stroke-linejoin="round"/>
                                                 <path d="M31.029 21.044L25.976 35.06"/>
                                             </g>
-                                            <path stroke="#B2A8FF" stroke-linejoin="round" d="M23.018 10h8.984M26 47h5M8 16h16m9 0h15.725M8 41h13"/>
-                                            <path d="M5.027 34.998c.673 2.157 1.726 4.396 2.81 6.02m43.38-19.095C50.7 19.921 49.866 17.796 48.79 16" stroke="#B2A8FF"/>
-                                            <path stroke="#7D6CFF" stroke-linejoin="round" d="M26 41h17"/>
-                                            <path d="M7.183 16C5.186 19.582 4 23.619 4 28M42.608 47.02c2.647-1.87 5.642-5.448 7.295-9.18C51.52 34.191 52.071 30.323 52 28" stroke="#7D6CFF"/>
-                                            <path stroke="#7D6CFF" stroke-linejoin="round" d="M7.226 16H28M13.343 47H21"/>
-                                            <path d="M13.337 47.01a24.364 24.364 0 006.19 3.45 24.527 24.527 0 007.217 1.505c2.145.108 4.672-.05 7.295-.738" stroke="#7D6CFF"/>
-                                            <path stroke="#7D6CFF" stroke-linejoin="round" d="M36 47h6.647M12 10h6M37 10h6.858"/>
-                                            <path d="M43.852 10c-4.003-3.667-9.984-6.054-16.047-6-2.367.021-4.658.347-6.81 1.045" stroke="#7D6CFF"/>
-                                            <path stroke="#B2A8FF" stroke-linejoin="round" d="M5.041 35h4.962M47 22h4.191"/>
+                                            <path stroke="#79B8FF" stroke-linejoin="round" d="M23.018 10h8.984M26 47h5M8 16h16m9 0h15.725M8 41h13"/>
+                                            <path d="M5.027 34.998c.673 2.157 1.726 4.396 2.81 6.02m43.38-19.095C50.7 19.921 49.866 17.796 48.79 16" stroke="#79B8FF"/>
+                                            <path stroke="#2088FF" stroke-linejoin="round" d="M26 41h17"/>
+                                            <path d="M7.183 16C5.186 19.582 4 23.619 4 28M42.608 47.02c2.647-1.87 5.642-5.448 7.295-9.18C51.52 34.191 52.071 30.323 52 28" stroke="#2088FF"/>
+                                            <path stroke="#2088FF" stroke-linejoin="round" d="M7.226 16H28M13.343 47H21"/>
+                                            <path d="M13.337 47.01a24.364 24.364 0 006.19 3.45 24.527 24.527 0 007.217 1.505c2.145.108 4.672-.05 7.295-.738" stroke="#2088FF"/>
+                                            <path stroke="#2088FF" stroke-linejoin="round" d="M36 47h6.647M12 10h6M37 10h6.858"/>
+                                            <path d="M43.852 10c-4.003-3.667-9.984-6.054-16.047-6-2.367.021-4.658.347-6.81 1.045" stroke="#2088FF"/>
+                                            <path stroke="#79B8FF" stroke-linejoin="round" d="M5.041 35h4.962M47 22h4.191"/>
                                         </g>
                                     </svg>
                                 </svg>
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix">Great</span>
-                                    developer
-                                    <span class="gh">ranked 2.16m out of 102m users</span>
+                                    <span class="prefix"></span>
+                                    Developer
+                                    <span class="gh">ranked 2.31m out of 102m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">20</div>
+                                        <div class="value">19</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 20 public repositories</div>
+                                <div class="text">Published 19 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2116,7 +1674,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.89949748743719 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.79396984924624 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2138,10 +1696,10 @@ You can trigger Dependabot actions by commenting on this PR:
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">110</div>
+                                        <div class="value">115</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 110 times</div>
+                                <div class="text">Repositories have been deployed 115 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2536,7 +2094,7 @@ You can trigger Dependabot actions by commenting on this PR:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2022, 20:46:56 (timezone Asia/Tehran) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Nov 2022, 21:53:17 (timezone Asia/Tehran) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
