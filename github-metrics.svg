@@ -1863,7 +1863,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 583k out of 410m repositories</span>
+                                    <span class="gh">ranked 622k out of 410m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -2006,7 +2006,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2023, 10:53:38 (timezone Asia/Tehran) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jun 2023, 11:47:01 (timezone Asia/Tehran) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
