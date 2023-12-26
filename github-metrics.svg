@@ -1590,7 +1590,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.73m out of 127m users</span>
+                                    <span class="gh">ranked 2.91m out of 127m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -1802,7 +1802,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 666k out of 54.7m repositories</span>
+                                    <span class="gh">ranked 666k out of 56.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -1945,7 +1945,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 21:49:06 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 22:42:20 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
